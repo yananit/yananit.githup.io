@@ -128,7 +128,7 @@ sitemap:
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
 - type: 'git'
-  repo: # git@github.com:LuckyZmj/LuckyZmj.github.io.git 
+  repo: git@github.com:yananit/yananit.githup.io.git
   branch: master
 - type: baidu_url_submitter
 
